@@ -1,6 +1,6 @@
-#LeetCode
+# LeetCode
 ---
-###I will be uploading leetCode monthly challenges with notes and solution codes
+### I will be uploading leetCode monthly challenges with notes and solution codes
 ---
 **Each folder is named by the month**
 ---
