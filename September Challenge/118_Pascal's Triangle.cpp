@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-class Solution
+class solution
 {
 private:
   vector<int> generateRow(int rowNum)
