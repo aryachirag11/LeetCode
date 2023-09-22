@@ -17,7 +17,7 @@ public:
 };
 */
 
-class Solution
+class solution
 {
 public:
   Node *copyRandomList(Node *head)
